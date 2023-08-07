@@ -5,7 +5,7 @@
    
 
     "Socks5Host":"0.0.0.0",
-    "Socks5Port":"8081",
+    "Socks5Port":"80",
 
     "key":"hello"
   }
