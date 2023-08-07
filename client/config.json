@@ -1,0 +1,11 @@
+{
+    "LocalHost":"0.0.0.0",
+    "LocalPort":"8081",
+
+   
+
+    "Socks5Host":"0.0.0.0",
+    "Socks5Port":"8081",
+
+    "key":"hello"
+  }
